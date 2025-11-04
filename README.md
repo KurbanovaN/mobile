@@ -13,3 +13,6 @@ https://docs.google.com/spreadsheets/d/1Sw4VBARIJOOvEQEZc9uibt2g5cbUqrfX/edit?us
 
 Файл с отчетом о тестировании
 https://docs.google.com/document/d/1mvsppSqIWkD1ulAqTByu-w2N3jRrWzQu/edit?usp=sharing&ouid=105445470961119291039&rtpof=true&sd=true
+
+Файл с видео отчетом из Fiddler
+https://drive.google.com/file/d/1W_w0ET8K8otpYc9nBO9MpVl3q1WoLtuL/view?usp=sharing
